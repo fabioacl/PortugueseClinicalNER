@@ -1,0 +1,33 @@
+Doente de 59 anos, admitido por AVC isquémico.
+Apresentava ao exame neurológico de entrada parésia
+facial central direita, disartria moderada e hemiplegia e hemihipostesia
+álgica direitas (NIHSS 12). Realizou trombólise
+endovenosa, tendo-se verificado melhoria transitória da força
+muscular do membro superior após a terapêutica trombolítica,
+com reagravamento posterior para plegia.
+Logo após a perfusão de alteplase constatou-se que durante
+o bocejo o doente apresentava um movimento estereotipado
+de flexão do cotovelo do membro plégico, que vencia a
+força da gravidade.
+Ao sexto dia após o AVC, o doente passou a ter controlo
+voluntário sobre o movimento do membro plégico durante o
+bocejo. Documentou-se a capacidade de dirigir o movimento,
+por exemplo, para tocar com a mão direita ou no ombro
+contra-lateral ou no mento, de acordo com o pedido do observador
+(vídeo).
+A ressonância magnética revelou um lesão isquémica com
+envolvimento do núcleo lenticular, braço anterior e posterior
+da cápsula interna, corpo do núcleo caudado e coroa radiária
+à esquerda. Utilizando os softwares FSL e MRIcron, normalizou-se
+a lesão para um cérebro padrão (MNI152) e fez-se um
+estudo de sobreposição lesional com dois doentes com lesões
+com topografi a lenticulo-capsulo-radiária e defeito neurológico
+semelhante - um não apresentando movimentos do
+membro plégico com o bocejo e outro com um movimento
+de flexão do cotovelo involuntário com o bocejo. A lesão do
+doente em estudo tinha maior envolvimento das regiões anterior,
+posterior e inferior do putámen, embora a diferença não
+tenha sido estatisticamente significativa.
+Constatou-se melhoria da força muscular do membro superior
+direito para grau 2 após 30 dias. O doente manteve o
+fenómeno descrito.
