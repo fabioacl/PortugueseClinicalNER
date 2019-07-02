@@ -11,15 +11,15 @@ Publisher = {Springer},\
 Pages = {In press},\
 Year = {2019}}
 
-@inproceedings{lopes_etal:bionlp2019,
-    title = "{C}ontributions to {C}linical {N}amed {E}ntity {R}ecognition in {P}ortuguese",
-    author = "Lopes, Fábio and Teixeira, César and Oliveira, Hugo Gonçalo",
-    booktitle = "Proceedings of the 18th Workshop on Biomedical Natural Language Processing",
-    month = aug,
-    year = "2019",
-    address = "Florence, Italy",
-    publisher = "Association for Computational Linguistics",
-    url = "{In press}",
-    doi = "{In press}",
+@inproceedings{lopes_etal:bionlp2019,\
+    title = "{C}ontributions to {C}linical {N}amed {E}ntity {R}ecognition in {P}ortuguese",\
+    author = "Lopes, Fábio and Teixeira, César and Oliveira, Hugo Gonçalo",\
+    booktitle = "Proceedings of the 18th Workshop on Biomedical Natural Language Processing",\
+    month = aug,\
+    year = "2019",\
+    address = "Florence, Italy",\
+    publisher = "Association for Computational Linguistics",\
+    url = "{In press}",\
+    doi = "{In press}",\
     pages = "{In press}",
 }
