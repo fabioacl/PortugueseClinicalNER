@@ -1,14 +1,14 @@
 # PortugueseClinicalNER
 If you use these datasets, please cite the following papers:
 
-@inproceedings{lopes_etal:epia2019,
-Author = {Fábio Lopes and César Teixeira and Hugo {Gonçalo~Oliveira}},
-Booktitle = {Proceedings of 19th EPIA Conference on Artificial Intelligence},
-Month = {September},
-Title = {{N}amed {E}ntity {R}ecognition in {P}ortuguese {N}eurology Text using {CRF}},
-Series = {LNCS},
-Publisher = {Springer},
-Pages = {In press},
+@inproceedings{lopes_etal:epia2019,\
+Author = {Fábio Lopes and César Teixeira and Hugo {Gonçalo~Oliveira}},\
+Booktitle = {Proceedings of 19th EPIA Conference on Artificial Intelligence},\
+Month = {September},\
+Title = {{N}amed {E}ntity {R}ecognition in {P}ortuguese {N}eurology Text using {CRF}},\
+Series = {LNCS},\
+Publisher = {Springer},\
+Pages = {In press},\
 Year = {2019}}
 
 @inproceedings{lopes_etal:bionlp2019,
