@@ -13,7 +13,7 @@ Year = {2019}}
 
 @inproceedings{lopes_etal:bionlp2019,
     title = "{C}ontributions to {C}linical {N}amed {E}ntity {R}ecognition in {P}ortuguese",
-    author = "Lopes, F{\'a}bio and Teixeira, C{\'e}sar and Oliveira, Hugo Gon{\cc}alo",
+    author = "Lopes, Fábio and Teixeira, César and Oliveira, Hugo Gonçalo",
     booktitle = "Proceedings of the 18th Workshop on Biomedical Natural Language Processing",
     month = aug,
     year = "2019",
