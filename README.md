@@ -9,7 +9,7 @@ If you use these datasets, please cite the following paper:
     year = "2019",\
     address = "Florence, Italy",\
     publisher = "Association for Computational Linguistics",\
-    url = "https://www.aclweb.org/anthology/W19-5024",\
+    url = "https://www.aclweb.org/anthology/W19-5024", \
     pages = "223--233"
 }
 
