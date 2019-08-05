@@ -1,19 +1,16 @@
 # PortugueseClinicalNER
 If you use these datasets, please cite the following paper:
 
-@inproceedings{lopes-etal-2019-contributions,
-    title = "Contributions to Clinical Named Entity Recognition in {P}ortuguese",
-    author = "Lopes, F{\'a}bio  and
-      Teixeira, C{\'e}sar  and
-      Gon{\c{c}}alo Oliveira, Hugo",
-    booktitle = "Proceedings of the 18th BioNLP Workshop and Shared Task",
-    month = aug,
-    year = "2019",
-    address = "Florence, Italy",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/W19-5024",
-    pages = "223--233",
-    abstract = "Having in mind that different languages might present different challenges, this paper presents the following contributions to the area of Information Extraction from clinical text, targeting the Portuguese language: a collection of 281 clinical texts in this language, with manually-annotated named entities; word embeddings trained in a larger collection of similar texts; results of using BiLSTM-CRF neural networks for named entity recognition on the annotated collection, including a comparison of using in-domain or out-of-domain word embeddings in this task. Although learned with much less data, performance is higher when using in-domain embeddings. When tested in 20 independent clinical texts, this model achieved better results than a model using larger out-of-domain embeddings.",
+@inproceedings{lopes-etal-2019-contributions,\
+    title = "Contributions to Clinical Named Entity Recognition in {P}ortuguese",\
+    author = "Lopes, F{\'a}bio and Teixeira, C{\'e}sar and Gon{\c{c}}alo Oliveira, Hugo",\
+    booktitle = "Proceedings of the 18th BioNLP Workshop and Shared Task",\
+    month = aug,\
+    year = "2019",\
+    address = "Florence, Italy",\
+    publisher = "Association for Computational Linguistics",\
+    url = "https://www.aclweb.org/anthology/W19-5024",\
+    pages = "223--233"
 }
 
 Lopes, Fábio and Teixeira, César and Oliveira, Hugo Gonçalo. 2019 Contributions to Clinical Named Entity Recognition in Portuguese. In <em> Proceedings of the 18th Workshop on Biomedical Natural Language Processing</em>, pages In press, Florence, Italy. Association for Computational Linguistics
