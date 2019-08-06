@@ -13,7 +13,7 @@ If you use these datasets, please cite the following paper:
     pages = "223--233"
 }
 
-Lopes, Fábio and Teixeira, César and Oliveira, Hugo Gonçalo. 2019 Contributions to Clinical Named Entity Recognition in Portuguese. In <em> Proceedings of the 18th Workshop on Biomedical Natural Language Processing</em>, pages In press, Florence, Italy. Association for Computational Linguistics
+Lopes, Fábio and Teixeira, César and Oliveira, Hugo Gonçalo. 2019 Contributions to Clinical Named Entity Recognition in Portuguese. In <em> Proceedings of the 18th BioNLP Workshop and Shared Task</em>, pages 223--233, Florence, Italy. Association for Computational Linguistics.
 
 The dataset was also used in the following paper:
 
